@@ -22,25 +22,26 @@ Para acesso à plataforma, o usuário deverá utilizar o link: https://marianamb
 ## 2. Usuário (Persona)
 Para o desenvolvimento nas histórias de usuario criamos a persona.
 
+<div><img src="./src/img/persona3.png" width="100"></div>
 Persona 1
   César - 31 anos
   Solteiro - Relações Publicas
   Gosta de Pokemon desde criança
   joga Pokemon Go desde o lançamento
   Gostaria que a filtragem dos pokémons fosse por nome.
-
+<div><img src="./src/img/persona4.png" width="100"></div>
 Persona 2
   José Adauto - 34 anos
   Casado - Arquiteto de Software
   Gosta de jogar Pokemon Go com os filhos
   Gostaria de filtrar os Pokémons por nome, poder, força, e fraqueza.
-
+<div><img src="./src/img/persona1.png" width="100"></div>
 Persona 3
   Kelle - 17 anos
   Solteira - Desempregada
   gosta de Pokemon Go e joga por diversão
   Para filtrar os Pokémons gostaria que fossem por nome, poder e evolução.
-
+<div><img src="./src/img/persona2.png" width="100"></div>
 Persona 4
   Fabiana - 36 anos
   Casada - Empresária
