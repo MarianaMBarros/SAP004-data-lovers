@@ -1,3 +1,7 @@
+*{
+  cursor: url("./img/cursor.png") 1 1, default;
+}
+
 body{
   background-image: linear-gradient(rgb(59, 4, 59), violet);
   margin: auto;

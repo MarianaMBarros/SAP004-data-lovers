@@ -5,9 +5,11 @@
   - [2. Usuário (Persona)](#2-usu%c3%a1rio-persona)
   - [3. História de Usuário](#3-hist%c3%b3ria-de-usu%c3%a1rio)
   - [4. Função do Projeto](#1-FunçãodoProjeto)
-  - [5. Protótipo](#5-Prototipo)
+  - [5. Protótipo de Baixa Fidelidade](#5-PrototipodeBaixaFidelidade)
   - [6. Testes de Usabilidade](#6-TestesdeUsabilidade)
-  - [7. Considerações](#7-Considerações)
+  - [7. Instalação e Execução](#7-InstalaçãoEExecução)
+  - [8. Implementações Futuras](#8-ImplementaçõesFuturas)
+  - [9.Agradecimentos](#9-Agradecimentos)
 
 
 ## 1. Resumo
@@ -74,9 +76,41 @@ ou em uma filtragem de nome, tipo ou de ordenação.
 ## 6. Testes de Usabilidade:
   Os testes foram realizados para obter os feedbacks do usuários sobre como estava a visualização do site, apartir deste ponto foi detectado que ao acessar os dados do pokémon tinha uma necessidade de ter suas evoluções com imagem  e ter a possibilidade de ir para o proximo pokémon da lista ou voltar para o anterior.
 
-## 7. Considerações
-   * Para ter acesso ao projeto faça um `fork` ou um `clone`.
-   * Instale as dependencias com o comando no terminal `npm install`.
-   * Para verificar sua aplicação faça um `npm start` no terminal e nele aparecerá  a url para acessar o ser servidor na web `http://localhost:5000`.
+## 7. Instalação e Execução. :octocat:
+
+- [Clone](https://help.github.com/articles/cloning-a-repository/) o projeto na sua máquina executando o seguinte comando no seu terminal:
+
+```sh
+git clone (link-do-repositório)
+```
+
+- Instale as dependências do projeto com o comando:
+
+```sh
+yarn install
+```
+
+- Rode o projeto na sua máquina com:
+
+```sh
+npm start
+```
+
+- E visualize o projeto no seu navegador com o link:
+
+```sh
+http://localhost:3000
+```
+
+## 8. Implementações futuras
+
+Futuramente serão implementadas funcionalidades para melhoria da experiência do usuário:
+
+- Ter Acesso restrito com pokemons que ja capturou e ainda não.
+- Troca de pokemons repetidos com outros usuarios.
+
+## 9. Agradecimentos
+
+- [Laboratoria](https://github.com/Laboratoria).
 
 
